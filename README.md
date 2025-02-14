@@ -1,5 +1,3 @@
-# nmap-scheduler
-
 # Nmap Scheduler Script
 
 A single Bash script that waits until **8 PM EST**, creates a temporary targets file, and then executes an nmap scan with fast options. All output is logged both to the console and a log file, and the script automatically cleans up temporary files.
