@@ -13,7 +13,6 @@ A single Bash script that waits until **8 PM EST**, creates a temporary targets 
 - [Configuration](#configuration)
 - [How It Works](#how-it-works)
 - [Logging](#logging)
-- [License](#license)
 
 ## Features
 
