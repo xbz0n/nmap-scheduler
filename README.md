@@ -45,7 +45,7 @@ A single Bash script that waits until **8 PM EST**, creates a temporary targets 
 2.	Make the script executable:
  ```
 cd nmap-scheduler
-chmod +x nmap_scheduler.sh
+chmod +x nmap-scheduler.sh
 ```
 
 1.	Calculate the delay until 8 PM EST.
